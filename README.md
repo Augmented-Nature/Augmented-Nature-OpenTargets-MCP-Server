@@ -245,3 +245,12 @@ For issues with:
 - **Open Targets API**: Visit [platform.opentargets.org](https://platform.opentargets.org/)
 - **GraphQL Queries**: Use the [Open Targets GraphQL browser](https://api.platform.opentargets.org/api/v4/graphql/browser)
 
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{opentargetsmcp2025, 
+author = {Moudather Chelbi},
+title = {OpenTargets MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/OpenTargets-MCP-Server},
+note = {Accessed: 2025-06-29}
